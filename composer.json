@@ -1,0 +1,14 @@
+{
+    "name": "diginamic10/vegetable-garden",
+    "authors": [
+        {
+            "name": "Mohamed Ben belgacem",
+            "email": "med.benbelgacem@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.5",
+        "phpstan/phpstan": "^0.10.3"
+    }
+}

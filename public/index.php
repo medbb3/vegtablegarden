@@ -33,8 +33,8 @@
 
 <h2>Etapes de conception</h2>
 <ul class="list-group">
-  <li class="list-group-item active">Créer un <a href="dashboard.php" style="color:yellow;">dashboard</a></li>
-  <li class="list-group-item">Créer une page de <a href="params.php">paramètrage</a></li>
+  <li class="list-group-item active">Créer un <a href="/public/dashboard.php" style="color:yellow;">dashboard</a></li>
+  <li class="list-group-item">Créer une page de <a href="/public/params.php">paramètrage</a></li>
   <li class="list-group-item">Faire en sorte que le menu de navigation ne soit codé qu'une fois DRY</li>
   <li class="list-group-item">Stocker en session les informations de paramètrages</li>
   <li class="list-group-item">Créer les fonctions nécessaires et tester les unitairement</li>
